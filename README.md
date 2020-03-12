@@ -1,9 +1,9 @@
 # Dockerme
-Install Docker and Compose Without Pain
+Install Docker and Docker Compose Without Pain
 
 ## Getting Started
 
-### Install Docker and Compose
+### Install Docker and Docker Compose
 ```
 curl https://bgsrb.github.io/dockerme/dockerme.sh -o dockerme.sh | sudo sh dockerme.sh 
 ```
@@ -13,7 +13,7 @@ curl https://bgsrb.github.io/dockerme/dockerme.sh -o dockerme.sh | sudo sh docke
 curl https://bgsrb.github.io/dockerme/get-docker.sh -o get-docker.sh | sudo sh get-docker.sh 
 ```
 
-### Install only Compose
+### Install only Docker Compose
 ```
 curl https://bgsrb.github.io/dockerme/get-docker-compose.sh -o get-docker-compose.sh | sudo sh get-docker-compose.sh
 ```
