@@ -10,10 +10,10 @@ curl https://bgsrb.github.io/dockerme/dockerme.sh -o dockerme.sh | sudo sh docke
 
 ### Install only Docker
 ```
-curl https://bgsrb.github.io/dockerme/get-docker.sh -o get-docker.sh | sudo sh get-docker.sh 
+curl https://bgsrb.github.io/dockerme/docker.sh -o docker.sh | sudo sh docker.sh 
 ```
 
 ### Install only Docker Compose
 ```
-curl https://bgsrb.github.io/dockerme/get-docker-compose.sh -o get-docker-compose.sh | sudo sh get-docker-compose.sh
+curl https://bgsrb.github.io/dockerme/docker-compose.sh -o docker-compose.sh | sudo sh docker-compose.sh
 ```
